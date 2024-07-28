@@ -1,0 +1,9 @@
+Deployment
+
+As a boot camp student,
+I want the prework notes to be structured on a webpage,
+So that I can easily find and read the information.
+
+GIVEN a Prework Study Guide website,
+WHEN I visit the website using the URL,
+THEN I can access my website from any browser
